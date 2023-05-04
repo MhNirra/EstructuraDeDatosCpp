@@ -1,6 +1,6 @@
-###  Ordenamiento por Selección
+###  Ordenamiento por SelecciÃ³n
 
-- Busc el minimo lemnto de la lista
+- Busca el minimo lemnto de la lista
 - intercambiar con el primer elemento
 - Buscar el minimo del resto de la lista
 - Intercambiar con el segundo
